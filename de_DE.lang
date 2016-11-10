@@ -1,7 +1,7 @@
 itemGroup.rscircuits=Super Circuit Maker
 item.rscircuits:circuit.name=Redstone-Schaltkreis
 item.rscircuits:resource.pile_of_redstone.name=Winziges Häufchen Redstone
-item.rscircuits:resource.quartz_resonator.name=Quarz
+item.rscircuits:resource.quartz_resonator.name=Quarz-Resonator
 item.rscircuits:resource.energized_glowstone.name=Glowstone-Erreger
 item.rscircuits:resource.tiny_lamp.name=Miniaturlampe
 item.rscircuits:resource.ender_pulsar.name=Ender-Pulsar
@@ -20,5 +20,5 @@ item.rscircuits:palette_and_brush.name=Palette und Pinsel
 item.rscircuits:screwdriver.name=Schraubendreher
 item.rscircuits:redwire.name=Rotlegierungskabel
 item.rscircuits:monocle.name=Monokel
-item.rscircuits:monocle_magnifying.name=Legendäre Lupenlinse
+item.rscircuits:monocle_magnifying.name=Legendäres Monokel
 key.rscircuits.monocle=Monokel-Vergrößerung
